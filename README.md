@@ -48,6 +48,11 @@ http://icofont.com/
 
 https://thenounproject.com/
 
+# Fuentes
+
+https://fonts.google.com/
+
+https://www.fontsquirrel.com/
 
 # Infografías
 
