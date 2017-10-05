@@ -104,11 +104,21 @@ https://github.com/greensock/GreenSock-JS
 
 https://github.com/atomiks/tippyjs
 
-## Extras
+## Para formularios
+
+Autocompletado con datalist
+
+https://github.com/sergiodlopes/jquery-flexdatalist
+
+Múltiples formularios select con funcionalidades interesantes
+
+https://github.com/harvesthq/chosen
 
 Para comprobar complejidad de constraseñas
 
 https://github.com/danpalmer/jquery.complexify.js/
+
+## Extras
 
 Para hacer grid de tarjetas
 
