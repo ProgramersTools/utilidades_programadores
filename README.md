@@ -50,6 +50,8 @@ https://github.com/highcharts/highcharts
 
 https://github.com/chartjs/Chart.js
 
+https://github.com/morrisjs/morris.js/
+
 ## Para Presentaciones
 
 https://github.com/impress/impress.js/
@@ -72,6 +74,12 @@ https://github.com/rudmanmrrod/material-dialog
 
 https://github.com/t4t5/sweetalert
 
+## Lightbox para imágenes
+
+https://github.com/brutaldesign/swipebox
+
+https://github.com/lokesh/lightbox2/
+
 ## Visualizaciones tipo revista (Flip Books)
 
 https://github.com/codrops/BookBlock
@@ -92,6 +100,10 @@ https://github.com/daneden/animate.css
 
 https://github.com/greensock/GreenSock-JS
 
+## Para tooltips
+
+https://github.com/atomiks/tippyjs
+
 ## Extras
 
 Para comprobar complejidad de constraseñas
@@ -105,6 +117,11 @@ https://github.com/desandro/masonry
 Para mantener un elemento siempre en el tope
 
 https://github.com/garand/sticky
+
+Para extraer los colores dominantes de una imagen
+
+https://github.com/lokesh/color-thief
+
 
 # Sobre Seguridad
 
