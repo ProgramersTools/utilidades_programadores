@@ -94,3 +94,11 @@ https://github.com/jbfavre/xca
 ## Transformar Json
 
 http://jsonviewer.stack.hu/
+
+## Para Comprimir HTML
+
+https://htmlcompressor.com/compressor/
+
+## Para Comprimir JS
+
+https://jscompress.com/
