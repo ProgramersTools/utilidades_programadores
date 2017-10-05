@@ -92,13 +92,19 @@ https://github.com/daneden/animate.css
 
 https://github.com/greensock/GreenSock-JS
 
-## Para comprobar complejidad de constraseñas
+## Extras
+
+Para comprobar complejidad de constraseñas
 
 https://github.com/danpalmer/jquery.complexify.js/
 
-## Para hacer grid de tarjetas
+Para hacer grid de tarjetas
 
 https://github.com/desandro/masonry
+
+Para mantener un elemento siempre en el tope
+
+https://github.com/garand/sticky
 
 # Sobre Seguridad
 
