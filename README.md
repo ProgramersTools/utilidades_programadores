@@ -159,10 +159,6 @@ Múltiples formularios select con funcionalidades interesantes
 
 https://github.com/harvesthq/chosen
 
-Para comprobar complejidad de constraseñas
-
-https://github.com/danpalmer/jquery.complexify.js/
-
 Otra apariencia para los check y radio buttons
 
 https://github.com/fronteed/icheck
@@ -191,11 +187,13 @@ https://github.com/wekan/wekan
 
 ## Medidor de complejidad en contraseñas
 
-https://danpalmer.me/projects/jquery-complexify
+https://github.com/danpalmer/jquery.complexify.js/
 
-## Reportes
+## Herramientas Drag & Drop de Elementos
 
-https://mozilla.github.io/pdf.js/
+https://github.com/desandro/draggabilly
+
+https://github.com/taye/interact.js
 
 ## Extras
 
