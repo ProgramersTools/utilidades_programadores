@@ -16,6 +16,20 @@ http://www.iconspedia.com/
 
 https://www.iconfinder.com/
 
+http://findicons.com/
+
+# Diseñadores de Iconos
+
+https://loading.io/
+
+http://www.ajaxload.info/
+
+http://cssload.net/en/spinners
+
+https://preloaders.net
+
+http://www.chimply.com/Generator
+
 # Fuentes de Iconos
 
 https://github.com/FortAwesome/Font-Awesome
@@ -26,6 +40,20 @@ https://github.com/google/material-design-icons
 
 https://github.com/erikflowers/weather-icons/ (Ya no recibe soporte pero tienes iconos interesantes)
 
+https://www.flaticon.com/ (gran variedad de paquetes de iconos vectoriales)
+
+http://app.fontastic.me/
+
+http://icofont.com/
+
+
+# Infografías
+
+https://www.easel.ly/
+
+https://infogram.com/
+
+
 # Plugins para Bootstrap
 
 ## Para cargar archivos
@@ -35,6 +63,12 @@ https://github.com/kartik-v/bootstrap-fileinput
 ## Para botones estilo togle
 
 https://github.com/minhur/bootstrap-toggle
+
+http://ahmad-sa3d.github.io/rcswitcher/
+
+https://vsn4ik.github.io/bootstrap-checkbox/
+
+http://tinytools.codesells.com/ToggleSwitch
 
 ## Para hacer inputs con etiquetas
 
@@ -56,6 +90,8 @@ https://github.com/chartjs/Chart.js
 https://github.com/morrisjs/morris.js/
 
 https://github.com/dabeng/OrgChart-Webcomponents (organigrama)
+
+https://danpalmer.me/projects/django-google-charts (implementación para el framework Django)
 
 ## Para Presentaciones
 
@@ -99,6 +135,8 @@ https://github.com/NUKnightLab/TimelineJS3
 
 https://github.com/Leaflet/Leaflet
 
+https://openlayers.org
+
 ## Animaciones en css
 
 https://github.com/daneden/animate.css
@@ -131,6 +169,27 @@ https://github.com/fronteed/icheck
 
 https://github.com/yabwe/medium-editor
 
+## Interfaces
+
+https://dhtmlx.com/
+
+https://www.jqwidgets.com/
+
+https://webix.com
+
+## Flujos de trabajo (Workflow)
+
+http://kanban.leanlabs.io/
+
+https://github.com/wekan/wekan
+
+## Medidor de complejidad en contraseñas
+
+https://danpalmer.me/projects/jquery-complexify
+
+## Reportes
+
+https://mozilla.github.io/pdf.js/
 
 ## Extras
 
@@ -174,6 +233,10 @@ Herramienta de escritorio multiplataforma (diponible también on-line) para el d
 
 http://www.pingendo.com
 
+Herramientas para la manipulación de texto
+
+http://textmechanic.com/
+
 
 # Sobre Seguridad
 
@@ -195,6 +258,49 @@ http://jsonviewer.stack.hu/
 
 https://htmlcompressor.com/compressor/
 
-## Para Comprimir JS
+## Para Comprimir JS, CSS y HTML
 
 https://jscompress.com/
+
+http://unminify.com/
+
+## Herramientas
+
+http://www.danstools.com/
+
+http://www.blindtextgenerator.com/es (Generador de texto simulado - Lorep ipsum)
+
+https://app.mockflow.com/ (Diseño de Mockups)
+
+https://creately.com/app (Editor de diagramas on-line)
+
+http://framebox.org/ (Diseño de Mockups)
+
+http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 (Generador de imágenes de texto a ASCII)
+
+## Diseños Responsivos (Responsive Design)
+
+http://responsivedesignchecker.com/ (chequea la correcta implementación de responsive designs)
+
+http://bootstrapdesigntools.com/ (herramientas de diseño responsivo)
+
+
+# Herramientas para Optimización SEO
+
+https://www.woorank.com/es/
+
+https://www.screamingfrog.co.uk/
+
+https://website.grader.com/
+
+https://www.link-assistant.com/website-auditor/
+
+https://www.seoprofiler.com/
+
+http://www.waudit.com/
+
+http://tools.seobook.com/
+
+# Chuletas
+
+http://overapi.com/ (contiene los cheat sheets de los lenguajes y frameworks más comúnes)
