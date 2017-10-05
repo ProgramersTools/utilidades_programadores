@@ -7,6 +7,16 @@ http://materializecss.com/
 
 http://getbootstrap.com
 
+# Iconos
+
+https://github.com/FortAwesome/Font-Awesome
+
+https://github.com/ionic-team/ionicons
+
+https://github.com/google/material-design-icons
+
+https://github.com/erikflowers/weather-icons/ (Ya no recibe soporte pero tienes iconos interesantes)
+
 # Plugins para Bootstrap
 
 ## Para cargar archivos
