@@ -123,6 +123,10 @@ Para comprobar complejidad de constraseñas
 
 https://github.com/danpalmer/jquery.complexify.js/
 
+Otra apariencia para los check y radio buttons
+
+https://github.com/fronteed/icheck
+
 ## Editores WYSIWYG
 
 https://github.com/yabwe/medium-editor
