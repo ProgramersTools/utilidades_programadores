@@ -27,6 +27,12 @@ https://github.com/kartik-v/bootstrap-star-rating
 
 # Plugins de JavaScript
 
+## Para gráficos
+
+https://github.com/highcharts/highcharts
+
+https://github.com/chartjs/Chart.js
+
 ## Para Presentaciones
 
 https://github.com/impress/impress.js/
