@@ -7,7 +7,13 @@ http://materializecss.com/
 
 http://getbootstrap.com
 
-# Iconos
+# Páginas para buscar iconos
+
+http://www.iconspedia.com/
+
+https://www.iconfinder.com/
+
+# Fuentes de Iconos
 
 https://github.com/FortAwesome/Font-Awesome
 
