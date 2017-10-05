@@ -58,12 +58,19 @@ https://github.com/impress/impress.js/
 
 https://github.com/nolimits4web/Swiper
 
+https://github.com/intllgnt/SSS
+
+https://github.com/worseisbetter/galleria
+
+https://github.com/buildinternet/supersized
 
 ## Para Modals
 
 https://github.com/makeusabrew/bootbox
 
 https://github.com/rudmanmrrod/material-dialog
+
+https://github.com/t4t5/sweetalert
 
 ## Visualizaciones tipo revista (Flip Books)
 
@@ -75,7 +82,6 @@ https://github.com/blasten/turn.js
 
 https://github.com/NUKnightLab/TimelineJS3
 
-
 ## Para Mapas Geográficos
 
 http://leafletjs.com/
@@ -85,6 +91,14 @@ http://leafletjs.com/
 https://github.com/daneden/animate.css
 
 https://github.com/greensock/GreenSock-JS
+
+## Para comprobar complejidad de constraseñas
+
+https://github.com/danpalmer/jquery.complexify.js/
+
+## Para hacer grid de tarjetas
+
+https://github.com/desandro/masonry
 
 # Sobre Seguridad
 
