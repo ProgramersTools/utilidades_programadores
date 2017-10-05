@@ -46,6 +46,8 @@ http://app.fontastic.me/
 
 http://icofont.com/
 
+https://thenounproject.com/
+
 
 # Infografías
 
@@ -263,6 +265,12 @@ https://htmlcompressor.com/compressor/
 https://jscompress.com/
 
 http://unminify.com/
+
+## Generadores de pdf
+
+https://github.com/mozilla/pdf.js (Para JS)
+
+https://tcpdf.org/ (Para PHP)
 
 ## Herramientas
 
