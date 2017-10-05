@@ -8,6 +8,8 @@ http://materializecss.com/
 
 http://getbootstrap.com
 
+http://bulma.io/
+
 # Páginas para buscar iconos
 
 http://www.iconspedia.com/
@@ -41,6 +43,7 @@ https://github.com/bootstrap-tagsinput/bootstrap-tagsinput
 ## Inputs con estilos de estrellas
 
 https://github.com/kartik-v/bootstrap-star-rating
+
 
 # Plugins de JavaScript
 
@@ -144,7 +147,28 @@ Para colocar notas de margenes
 https://github.com/fdansv/marginotes
 
 Para hacer listas que se puedan ordenar con js (sortables)
+
 https://github.com/RubaXa/Sortable
+
+Para generar CSS de figuras
+
+http://bennettfeely.com/clippy/
+
+Fragmentos de código para implementar en el frontend con Bootstrap
+
+https://bootsnipp.com/
+
+Herramientas CSS para diseñadores web
+
+http://www.cssmatic.com/
+
+Herramienta para la construcción de interfaces en bootstrap 3
+
+http://www.layoutit.com/
+
+Herramienta de escritorio multiplataforma (diponible también on-line) para el diseño web con Bootstrap 3 y 4
+
+http://www.pingendo.com
 
 
 # Sobre Seguridad
