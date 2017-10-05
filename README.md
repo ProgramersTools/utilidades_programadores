@@ -52,6 +52,8 @@ https://github.com/chartjs/Chart.js
 
 https://github.com/morrisjs/morris.js/
 
+https://github.com/dabeng/OrgChart-Webcomponents (organigrama)
+
 ## Para Presentaciones
 
 https://github.com/impress/impress.js/
@@ -118,6 +120,11 @@ Para comprobar complejidad de constraseñas
 
 https://github.com/danpalmer/jquery.complexify.js/
 
+## Editores WYSIWYG
+
+https://github.com/yabwe/medium-editor
+
+
 ## Extras
 
 Para hacer grid de tarjetas
@@ -131,6 +138,13 @@ https://github.com/garand/sticky
 Para extraer los colores dominantes de una imagen
 
 https://github.com/lokesh/color-thief
+
+Para colocar notas de margenes
+
+https://github.com/fdansv/marginotes
+
+Para hacer listas que se puedan ordenar con js (sortables)
+https://github.com/RubaXa/Sortable
 
 
 # Sobre Seguridad
