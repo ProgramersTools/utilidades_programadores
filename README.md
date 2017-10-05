@@ -1,4 +1,5 @@
-# utilidades_programadores
+# Utilidades para progamadores
+
 Listado de distintos plugins, frameworks, páginas, etc. Que pueden hacer más fácil la vida del programador en sus labores
 
 # Frameworks para estilos css
@@ -78,6 +79,12 @@ https://github.com/NUKnightLab/TimelineJS3
 ## Para Mapas Geográficos
 
 http://leafletjs.com/
+
+## Animaciones en css
+
+https://github.com/daneden/animate.css
+
+https://github.com/greensock/GreenSock-JS
 
 # Sobre Seguridad
 
