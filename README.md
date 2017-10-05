@@ -4,6 +4,7 @@ Listado de distintos plugins, frameworks, páginas, etc. Que pueden hacer más f
 # Frameworks para estilos css
 
 http://materializecss.com/
+
 http://getbootstrap.com
 
 # Plugins para Bootstrap
@@ -38,11 +39,13 @@ https://github.com/nolimits4web/Swiper
 ## Para Modals
 
 https://github.com/makeusabrew/bootbox
+
 https://github.com/rudmanmrrod/material-dialog
 
 ## Visualizaciones tipo revista (Flip Books)
 
 https://github.com/codrops/BookBlock
+
 https://github.com/blasten/turn.js
 
 ## Lineas de Tiempo
@@ -57,9 +60,11 @@ http://leafletjs.com/
 # Sobre Seguridad
 
 ## Para firmar documentos electrónicamente
+
 http://www.sinadura.net/
 
 ## Para manejar firmas electrónicas
+
 https://github.com/jbfavre/xca
 
 # Útilidades Varias
