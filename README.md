@@ -67,7 +67,7 @@ https://infogram.com/
 
 https://github.com/kartik-v/bootstrap-fileinput
 
-## Para botones estilo togle
+## Para botones estilo toggle
 
 https://github.com/minhur/bootstrap-toggle
 
@@ -97,6 +97,8 @@ https://github.com/chartjs/Chart.js
 https://github.com/morrisjs/morris.js/
 
 https://github.com/dabeng/OrgChart-Webcomponents (organigrama)
+
+https://github.com/almende/vis (Para hacer lineas de tiempo, redes y gráficos en 2D y 3D)
 
 https://danpalmer.me/projects/django-google-charts (implementación para el framework Django)
 
