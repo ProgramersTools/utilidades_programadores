@@ -235,6 +235,7 @@ https://bootsnipp.com/
 Herramientas CSS para diseñadores web
 
 http://www.cssmatic.com/
+http://css3generator.com/
 
 Herramienta para la construcción de interfaces en bootstrap 3
 
