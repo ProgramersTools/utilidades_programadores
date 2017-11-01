@@ -174,6 +174,10 @@ Constructor de formularios con Drag & Drop
 
 https://github.com/Draggable/formeo
 
+Campos estilo Dial (similar a una barra cargando)
+
+https://github.com/aterrien/jQuery-Knob
+
 ## Editores WYSIWYG
 
 https://github.com/yabwe/medium-editor
