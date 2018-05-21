@@ -182,6 +182,8 @@ https://github.com/aterrien/jQuery-Knob
 
 https://github.com/yabwe/medium-editor
 
+https://github.com/Alex-D/Trumbowyg
+
 ## Interfaces
 
 https://dhtmlx.com/
