@@ -22,7 +22,7 @@ https://github.com/bootstrap-tagsinput/bootstrap-tagsinput
 
 https://github.com/kartik-v/bootstrap-star-rating
 
-## NOtificaciones con Bootstrap
+## Notificaciones con Bootstrap
 
 https://github.com/mouse0270/bootstrap-notify
 
