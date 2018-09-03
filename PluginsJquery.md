@@ -53,3 +53,7 @@ https://github.com/garand/sticky
 Para colocar notas de margenes
 
 https://github.com/fdansv/marginotes
+
+Timmer o reloj
+
+https://github.com/objectivehtml/FlipClock
