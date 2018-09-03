@@ -61,21 +61,17 @@ https://www.easel.ly/
 https://infogram.com/
 
 
-# Plugins para Bootstrap
+# [Plugins para Bootstrap](PluginsBootstrap.md)
 
-[plugins aquí](PluginsBootstrap.md)
 
-# Plugins para VueJs
+# [Plugins para VueJs](PluginsVueJs.md)
 
-[plugins aquí](PluginsVueJs.md)
 
-# Plugins de JavaScript
+# [Plugins de JavaScript](PluginsJavascript.md)
 
-[plugins aquí](PluginsJavascript.md)
 
-# Plugins de Jquery
+# [Plugins de Jquery](PluginsJquery.md)
 
-[plugins aquí](PluginsJquery.md)
 
 # Sobre Seguridad
 
