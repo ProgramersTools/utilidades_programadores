@@ -44,6 +44,16 @@ https://github.com/blasten/turn.js
 
 https://github.com/nnattawat/flip
 
+## Timer Plugins
+
+https://github.com/objectivehtml/FlipClock
+
+https://github.com/caike/jQuery-Simple-Timer
+
+https://github.com/walmik/timer.jquery
+
+https://github.com/albert-gonzalez/easytimer.js
+
 ## Extras
 
 Para mantener un elemento siempre en el tope
@@ -54,6 +64,3 @@ Para colocar notas de margenes
 
 https://github.com/fdansv/marginotes
 
-Timmer o reloj
-
-https://github.com/objectivehtml/FlipClock
