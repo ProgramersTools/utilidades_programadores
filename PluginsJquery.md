@@ -34,6 +34,16 @@ https://github.com/aterrien/jQuery-Knob
 
 https://github.com/danpalmer/jquery.complexify.js/
 
+## Visualizaciones tipo revista (Flip Books)
+
+https://github.com/codrops/BookBlock
+
+https://github.com/blasten/turn.js
+
+## Flip Plugins
+
+https://github.com/nnattawat/flip
+
 ## Extras
 
 Para mantener un elemento siempre en el tope
