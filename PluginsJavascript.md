@@ -34,12 +34,6 @@ https://github.com/t4t5/sweetalert
 
 https://github.com/lokesh/lightbox2/
 
-## Visualizaciones tipo revista (Flip Books)
-
-https://github.com/codrops/BookBlock
-
-https://github.com/blasten/turn.js
-
 ## Lineas de Tiempo
 
 https://github.com/NUKnightLab/TimelineJS3
