@@ -152,6 +152,9 @@ Herramientas para la manipulación de texto
 
 http://textmechanic.com/
 
+Botones de github
+
+https://github.com/ntkme/github-buttons
 
 # Herramientas para Optimización SEO
 
@@ -172,7 +175,3 @@ http://tools.seobook.com/
 # Chuletas
 
 http://overapi.com/ (contiene los cheat sheets de los lenguajes y frameworks más comúnes)
-
-# Herramientas para Documentación:
-
-http://smartcomments.github.io/   It's a tool that allow you to create implicit comments from javascript source code.
