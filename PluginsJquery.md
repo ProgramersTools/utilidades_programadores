@@ -54,6 +54,10 @@ https://github.com/walmik/timer.jquery
 
 https://github.com/albert-gonzalez/easytimer.js
 
+## Editores WSIWYG
+
+https://github.com/Alex-D/Trumbowyg
+
 ## Extras
 
 Para mantener un elemento siempre en el tope
