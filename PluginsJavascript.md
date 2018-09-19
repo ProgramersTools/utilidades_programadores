@@ -68,7 +68,7 @@ https://github.com/Draggable/formeo
 
 https://github.com/yabwe/medium-editor
 
-https://github.com/Alex-D/Trumbowyg
+https://github.com/quilljs/quill/
 
 ## Interfaces
 
