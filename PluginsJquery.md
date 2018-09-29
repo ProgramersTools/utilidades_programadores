@@ -30,6 +30,10 @@ Campos estilo Dial (similar a una barra cargando)
 
 https://github.com/aterrien/jQuery-Knob
 
+## Datepicker
+
+https://github.com/nehakadam/DateTimePicker
+
 ## Medidor de complejidad en contraseñas
 
 https://github.com/danpalmer/jquery.complexify.js/
