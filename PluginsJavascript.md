@@ -64,6 +64,10 @@ Constructor de formularios con Drag & Drop
 
 https://github.com/Draggable/formeo
 
+## Datepickers
+
+https://github.com/flatpickr/flatpickr
+
 ## Editores WYSIWYG
 
 https://github.com/yabwe/medium-editor
