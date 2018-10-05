@@ -30,6 +30,10 @@ Campos estilo Dial (similar a una barra cargando)
 
 https://github.com/aterrien/jQuery-Knob
 
+## Autocomplete
+
+https://github.com/devbridge/jQuery-Autocomplete
+
 ## Datepicker
 
 https://github.com/nehakadam/DateTimePicker
