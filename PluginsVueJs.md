@@ -8,6 +8,8 @@ https://github.com/xaksis/vue-good-table
 
 https://github.com/monterail/vuelidate
 
+https://github.com/baianat/vee-validate
+
 ## Treeview
 
 https://github.com/zdy1988/vue-jstree
@@ -23,6 +25,10 @@ https://github.com/euvl/vue-notification
 ## Para Interfaz
 
 https://github.com/vuetifyjs/vuetify
+
+https://github.com/lusaxweb/vuesax
+
+https://github.com/bootstrap-vue/bootstrap-vue
 
 ## Para documentación
 
