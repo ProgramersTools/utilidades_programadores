@@ -115,3 +115,7 @@ https://github.com/mshenfield/vanilla-marginotes
 Para hacer listas que se puedan ordenar con js (sortables)
 
 https://github.com/RubaXa/Sortable
+
+Para resaltar sintaxis 
+
+https://github.com/PrismJS/prism
