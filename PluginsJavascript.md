@@ -44,6 +44,15 @@ https://github.com/Leaflet/Leaflet
 
 https://openlayers.org
 
+
+## Marcadores para leaflet
+
+https://github.com/coryasilva/Leaflet.ExtraMarkers
+
+## Para agregar layers a leaflet
+
+https://www.mapbox.com
+
 ## Animaciones en css
 
 https://github.com/daneden/animate.css
